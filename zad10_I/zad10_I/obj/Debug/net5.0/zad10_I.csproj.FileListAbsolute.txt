@@ -1,0 +1,15 @@
+C:\Users\susal\source\repos\zad10_I\zad10_I\bin\Debug\net5.0\zad10_I.exe
+C:\Users\susal\source\repos\zad10_I\zad10_I\bin\Debug\net5.0\zad10_I.deps.json
+C:\Users\susal\source\repos\zad10_I\zad10_I\bin\Debug\net5.0\zad10_I.runtimeconfig.json
+C:\Users\susal\source\repos\zad10_I\zad10_I\bin\Debug\net5.0\zad10_I.runtimeconfig.dev.json
+C:\Users\susal\source\repos\zad10_I\zad10_I\bin\Debug\net5.0\zad10_I.dll
+C:\Users\susal\source\repos\zad10_I\zad10_I\bin\Debug\net5.0\ref\zad10_I.dll
+C:\Users\susal\source\repos\zad10_I\zad10_I\bin\Debug\net5.0\zad10_I.pdb
+C:\Users\susal\source\repos\zad10_I\zad10_I\obj\Debug\net5.0\zad10_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\zad10_I\zad10_I\obj\Debug\net5.0\zad10_I.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\zad10_I\zad10_I\obj\Debug\net5.0\zad10_I.AssemblyInfo.cs
+C:\Users\susal\source\repos\zad10_I\zad10_I\obj\Debug\net5.0\zad10_I.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\zad10_I\zad10_I\obj\Debug\net5.0\zad10_I.dll
+C:\Users\susal\source\repos\zad10_I\zad10_I\obj\Debug\net5.0\ref\zad10_I.dll
+C:\Users\susal\source\repos\zad10_I\zad10_I\obj\Debug\net5.0\zad10_I.pdb
+C:\Users\susal\source\repos\zad10_I\zad10_I\obj\Debug\net5.0\zad10_I.genruntimeconfig.cache
